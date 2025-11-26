@@ -1,4 +1,4 @@
-package io.github.mflib.topalerter
+package io.github.mflib
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn

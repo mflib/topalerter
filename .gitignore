@@ -16,7 +16,7 @@ build/
 out/
 
 # Gradle files
-.gradle/
+.gradle/*
 build/
 !gradle/wrapper/gradle-wrapper.jar
 
