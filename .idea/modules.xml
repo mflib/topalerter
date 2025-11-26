@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TopAlerter.iml" filepath="$PROJECT_DIR$/.idea/TopAlerter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topalerter/TopAlerter.topalerter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/topalerter/TopAlerter.topalerter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topalerter/TopAlerter.topalerter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/topalerter/TopAlerter.topalerter.unitTest.iml" />
+    </modules>
+  </component>
+</project>
